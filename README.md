@@ -1,2 +1,2 @@
 # C-34-Project
-WhiteHat jr after class projecy
+WhiteHat jr after class project
