@@ -3,8 +3,8 @@ var  dog, happyDog, database, food, foodStock,dogIMG;
 function preload(){
 
   //load images here
-dogIMG = loadImage("images/dogImg.png");
-happyDog = loadImage("images/dogImg1.png");
+dogIMG = loadImage("dogImg.png");
+happyDog = loadImage("dogImg1.png");
 }
 
 function setup() {
